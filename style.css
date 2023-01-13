@@ -1,5 +1,7 @@
 .titolo-h1{
-    color: yellow;
+      background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 body {
@@ -7,7 +9,3 @@ body {
     background-size:cover;
 }
 
-    color: green;
-    font-size: 20px;
-    text-shadow: rgb(60, 60, 179) 1px 0 10px;
-}
