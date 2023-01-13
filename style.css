@@ -1,13 +1,11 @@
 .titolo-h1{
     color: yellow;
-<<<<<<< HEAD
 }
 
 body {
     background-image: url(img/majonotabitabi.jpg)
 }
-=======
+    color: red;
     font-size: 20px;
     text-shadow: rgb(60, 60, 179) 1px 0 10px;
 }
->>>>>>> 757e79b06eb41df2588c0baa02b1bd92b8f14962
