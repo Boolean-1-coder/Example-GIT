@@ -3,7 +3,8 @@
 }
 
 body {
-    background-image: url(img/majonotabitabi.jpg)
+    background-image: url(img/bg.png);
+    background-size:cover;
 }
 
     color: green;
