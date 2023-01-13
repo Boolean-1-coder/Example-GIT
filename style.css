@@ -1,7 +1,7 @@
 .titolo-h1{
-      background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+    background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 body {
@@ -9,3 +9,9 @@ body {
     background-size:cover;
 }
 
+p {
+    margin: 2em;
+    background-color: #FFFFFFCC;
+    border-radius: 1em;
+    padding: 2em;
+}
