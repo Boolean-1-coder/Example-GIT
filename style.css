@@ -1,5 +1,17 @@
 .titolo-h1{
-    color: green;
-    font-size: 20px;
-    text-shadow: rgb(60, 60, 179) 1px 0 10px;
+    background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+body {
+    background-image: url(img/bg.png);
+    background-size:cover;
+}
+
+p {
+    margin: 3em;
+    background-color: #ffffffcc;
+    border-radius: 2em;
+    padding: 3em;
 }
